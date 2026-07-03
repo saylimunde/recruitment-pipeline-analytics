@@ -4,7 +4,7 @@
 An executive-ready Power BI dashboard designed to track, analyze, and optimize an end-to-end IT recruitment funnel. This interactive tool transforms raw tracking data into actionable human resources intelligence, focusing on capacity mapping, stage drop-offs, and operational bottlenecks.
 
 ## Dashboard Preview
-![Dashboard Layout](dashboard_preview.png)
+![Dashboard Layout](recruitment_analytics.png)
 
 ## Core Analytical Insights
 * **Pipeline Conversion:** Out of 113 total student enrollments, the vetting funnel yields a 33.6% screening rate (38 candidates) and a 2.6% overall placement yield (3 successful hires).
